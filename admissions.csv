@@ -1,0 +1,101 @@
+patient_id,admission_date,discharge_date,diagnosis,attending_doctor_id
+1,26-03-2021,17-12-2022,Corrosion of third degree of unspecified palm   subs encntr,9
+2,18-02-2021,19-01-2020,Other disorders of patella  unspecified knee,7
+3,22-06-2021,16-12-2022,Poisoning by opth drugs and prep  accidental,3
+1,28-11-2020,31-01-2022,Nondisp fx of medial epicondyle of r humerus  sequela,1
+5,27-01-2022,20-08-2022,Leakage of biological heart valve graft  subs encntr,5
+6,21-07-2022,28-10-2020,Disp fx of trapezoid  left wrist,4
+1,02-06-2022,17-11-2022,Oth viral infections with skin and mucous membrane lesions,4
+8,28-10-2020,20-10-2021,Burn of first degree of right shoulder,7
+9,24-04-2022,28-09-2020,Poisn by anticoag antag,9
+10,23-06-2020,08-01-2022,Presence of right artificial elbow joint,10
+11,23-06-2020,09-01-2022,Presence of right artificial elbow joint,10
+12,24-07-2021,23-09-2020,Leukocytosis,2
+13,26-04-2021,01-03-2022,Unspecified convulsions,3
+14,01-07-2022,09-08-2020,Insect bite (nonvenomous),9
+15,17-08-2022,16-07-2022,Alcohol abuse,8
+16,09-02-2021,07-12-2021,Unspecified multiple injuries,7
+17,28-08-2020,17-09-2022,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with unspecified severity,8
+18,19-04-2021,17-01-2020,Unspecified injury of unspecified blood vessel at lower leg level,3
+19,22-08-2021,05-11-2022,Person on outside of pick-up truck or van injured in noncollision transport accident,4
+20,10-03-2021,11-02-2022,Driver of all-terrain vehicle injured in noncollision transport accident,5
+21,19-12-2020,18-06-2020,Acute kidney failure with tubular necrosis,6
+22,13-09-2022,29-07-2020,Unspecified open wound of unspecified part of head,7
+23,09-09-2020,01-07-2022,Contusion of left front wall of thorax,10
+24,26-04-2021,05-07-2020,Drug induced psychosis,1
+25,17-10-2021,05-10-2022,Poisoning by opth drugs and prep  accidental,3
+26,08-12-2021,04-07-2022,Other complications of medical care,5
+27,09-02-2021,10-03-2020,Legal intervention involving baton,9
+28,16-03-2021,02-10-2020,Other specified diseases of biliary tract,3
+29,22-02-2022,29-03-2020,Postprocedural hemorrhage of a digestive system organ following an endoscopic procedure,2
+30,26-10-2021,19-12-2022,Person on outside of pick-up truck or van injured in noncollision transport accident,1
+31,23-08-2022,02-10-2022,Acute bronchiolitis due to other specified organisms,1
+32,10-05-2021,03-11-2020,Other mechanical complication of other internal orthopedic device,6
+33,30-08-2021,20-08-2022,Displaced fracture of medial epicondyle of right humerus,9
+34,05-01-2022,21-10-2022,Unspecified injury of unspecified blood vessel at hip and thigh level,10
+35,29-08-2020,16-02-2020,Corrosion of first degree of unspecified forearm,8
+36,10-06-2022,01-08-2022,Subsequent malignant neoplasm of skin of trunk,1
+37,29-04-2021,26-08-2022,Intraoperative hemorrhage and hematoma of a digestive system organ during a digestive system procedure,2
+38,03-07-2022,08-08-2022,Other chronic obstructive pulmonary disease,3
+39,05-08-2021,28-01-2022,Other complications due to renal dialysis device,9
+40,27-11-2020,05-12-2022,Contusion of unspecified hand,7
+41,17-07-2021,04-02-2022,Unspecified sprain of right knee,4
+42,25-07-2020,19-01-2020,Unspecified intracranial hemorrhage,4
+43,30-10-2021,10-07-2022,Motorcycle rider injured in collision with heavy transport vehicle or bus,8
+44,18-08-2022,01-06-2020,Toxic effect of unspecified noxious substance eaten as food,10
+45,07-02-2021,26-05-2020,Strain of other muscle(s) and tendon(s) at lower leg level,3
+46,18-01-2022,01-07-2022,Displaced fracture of neck of unspecified radius,6
+47,12-03-2022,04-05-2020,Blister (nonthermal) of unspecified thumb,9
+48,03-06-2021,12-02-2020,Injury of radial artery at wrist and hand level of unspecified arm,5
+49,11-10-2020,15-11-2020,Other specified diseases of pancreas,3
+50,12-01-2022,23-04-2020,Unspecified fracture of unspecified calcaneus,2
+51,21-02-2022,13-01-2022,Other injuries of hip,4
+52,17-08-2020,02-10-2022,Perforation due to foreign body accidentally left in body following surgical operation,10
+53,17-09-2020,07-10-2022,Poisoning by,9
+54,08-12-2020,20-07-2022,Underdosing of unspecified psychotropic drug,3
+55,14-06-2021,03-02-2022,Unspecified superficial injury of unspecified elbow,6
+56,19-04-2022,20-09-2020,Unspecified sprain of unspecified wrist,4
+57,23-07-2020,07-12-2022,Displacement of internal fixation device of bones of unspecified lower leg,1
+58,08-02-2022,10-09-2020,Corrosion of third degree of right foot,7
+59,16-09-2022,06-06-2020,Displaced comminuted fracture of shaft of ulna,9
+60,08-05-2021,19-10-2022,Unspecified injury of unspecified internal organ,6
+61,30-12-2020,05-02-2020,Burn of second degree of unspecified wrist,3
+62,14-11-2020,09-06-2020,Strain of muscle(s) and tendon(s) of anterior muscle group at lower leg level,2
+63,10-12-2020,14-11-2022,Acute kidney failure with other specified pathological lesion in kidney,3
+64,07-05-2021,10-05-2022,Burn of third degree of right ear,8
+65,25-06-2022,02-04-2020,Toxic effect of unspecified substance,7
+66,02-06-2021,25-10-2022,Unspecified sprain of unspecified site of back,5
+67,10-07-2020,22-11-2022,Unspecified open wound of right forearm,1
+68,22-01-2022,08-03-2020,Strain of other specified muscles,4
+69,06-02-2021,01-05-2022,Displaced fracture of body of sternum,6
+70,25-07-2021,05-03-2020,Open bite of unspecified part of trunk,2
+71,27-01-2022,14-10-2020,Benign neoplasm of skin of lower limb,2
+72,15-08-2020,23-07-2020,Displacement of carotid arterial stent,8
+73,05-08-2021,09-01-2020,Burn of third degree of unspecified thumb (nail),5
+74,15-03-2022,12-01-2022,Unspecified sprain of right ring finger,4
+75,17-05-2022,17-01-2020,Toxic effect of other specified gases,3
+76,09-10-2021,07-10-2022,Unspecified injury of unspecified muscle and tendon at lower leg level,1
+77,05-05-2021,24-09-2020,Displaced fracture of proximal phalanx of right thumb,9
+78,12-08-2022,27-05-2022,Displacement of internal fixation device of right ulna,10
+79,22-09-2022,29-09-2020,Chronic kidney disease,4
+80,06-08-2022,23-01-2020,Subluxation of unspecified rib(s),2
+81,15-05-2022,06-07-2022,Partial traumatic amputation of two fingers,3
+82,13-02-2021,01-08-2020,Encounter for screening for respiratory tuberculosis,5
+83,21-08-2021,10-03-2022,Unspecified superficial injury of unspecified elbow,6
+84,30-05-2021,08-07-2020,Unspecified open wound of head,7
+85,20-09-2020,22-07-2020,Burn of third degree of unspecified toe(s) (nail),8
+86,21-10-2020,10-11-2022,Bitten by pig,9
+87,22-02-2022,03-09-2022,Toxic effect of contact with venomous fish,10
+88,19-06-2022,18-10-2020,Unspecified superficial injury of left elbow,1
+89,03-01-2022,11-02-2020,Unspecified sprain of unspecified wrist,4
+90,19-06-2021,25-08-2022,Open bite of unspecified toe(s) with damage to nail,2
+91,23-12-2020,06-03-2022,Partial traumatic amputation of left shoulder and upper arm,3
+92,08-07-2020,12-05-2020,Open bite of unspecified part of trunk,6
+93,19-09-2022,08-03-2020,Strain of unspecified muscle and tendon at lower leg level,7
+94,13-10-2020,18-03-2022,Strain of unspecified muscle and tendon at lower leg level,10
+95,16-02-2022,18-06-2020,Contusion of right thumb without damage to nail,1
+96,26-07-2021,04-10-2020,Other superficial bite of right index finger,9
+97,14-01-2021,12-11-2020,Other injury of unspecified muscle,8
+98,27-11-2020,02-10-2022,Displacement of cardiac pacemaker,5
+99,06-03-2022,05-06-2020,Acute laryngotracheitis,3
+100,01-11-2021,12-11-2020,Toxic effect of unspecified substance,2
